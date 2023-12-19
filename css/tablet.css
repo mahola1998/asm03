@@ -1,0 +1,30 @@
+@media (max-width: 768px) {
+  /* navbar */
+  #nav-bar {
+    margin: 0;
+  }
+
+  .avatar {
+    width: 0;
+    border: 0;
+  }
+  /* project */
+  .cv {
+    font-size: 14px;
+  }
+
+  table,
+  .project p {
+    font-size: 10px;
+  }
+
+  /* footer */
+  #footer a {
+    font-size: 80%;
+  }
+
+  /* digital-cv */
+  .grid {
+    display: block;
+  }
+}

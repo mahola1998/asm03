@@ -1,0 +1,30 @@
+@media (max-width: 576px) {
+  /* navbar */
+  #nav-bar a {
+    display: block;
+    text-align: start;
+  }
+
+  .nav-item {
+    border: none;
+  }
+
+  /* certificate */
+  .line-bot,
+  .line-left {
+    border: none;
+  }
+
+  .padding-project {
+    padding: 5px 30px;
+  }
+  /* footer */
+  #footer a {
+    font-size: 60%;
+  }
+
+  /* digital-cv */
+  .grid {
+    display: block;
+  }
+}
