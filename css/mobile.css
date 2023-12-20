@@ -15,7 +15,7 @@
     border: none;
   }
 
-   .m-line-bot {
+  .m-line-bot {
     border-bottom: 1px solid #fa5252;
   }
 
@@ -30,5 +30,10 @@
   /* digital-cv */
   .grid {
     display: block;
+  }
+
+  /* footer */
+  #footer span {
+    display: none;
   }
 }
