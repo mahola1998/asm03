@@ -31,7 +31,9 @@
   .grid {
     display: block;
   }
+}
 
+@media (max-width: 576) {
   /* footer */
   #footer span {
     display: none;
